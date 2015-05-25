@@ -1,4 +1,3 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidColorPicker-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1738)
 # AndroidColorPicker
 
 Very simple color picker, Android equialent of<br/>
